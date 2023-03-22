@@ -1,1 +1,1 @@
-# pennhackathon
+# Penn Blockchain Hackathon
